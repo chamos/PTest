@@ -1,6 +1,6 @@
 div {
-    height:100px;
-    width:100px;
+    height:75px;
+    width:75px;
     background-color:#FF0000;
     border-radius:5px;
     margin-bottom:5px;
@@ -8,4 +8,8 @@ div {
 
 #green {
     background-color:#008800;
+}
+
+.autre {
+    background-color:#00ff00;
 }
